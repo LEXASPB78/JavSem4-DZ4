@@ -1,3 +1,5 @@
+// 3.Написать программу, определяющую правильность расстановки скобок в выражении.
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
